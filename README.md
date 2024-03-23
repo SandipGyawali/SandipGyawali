@@ -12,14 +12,8 @@
   <div align="center">
     <h2 align="center">Hi 👋!</h2>
     <h2>My name is Sandip Gyawali</h2>
-    <h2>I'm learning FullStack Web Development</h2>
-
   </div>
 
-###
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=sandipgyawali&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandipgyawali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -28,11 +22,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp"  />
 
 ###
 
-<p align="left">I'm from Planet known as Earth<br><br>- 🔭 I’m working as Student<br>- 📚 I'm currently learning FullStack Web Development on MERN Stack<br></p>
+<p align="left">I'm from Planet known as Earth<br><br>- 🔭 I’m working as Student<br>- 📚 Currently learning FullStack Web Development and DBMS<br></p>
 
 ###
 <div align="center">
@@ -73,6 +67,8 @@
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" height="40" alt="mongodb"/>
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40"/>
+    <img width="12" />     
 </div>
 
 ###
