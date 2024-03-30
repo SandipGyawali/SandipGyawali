@@ -11,7 +11,7 @@
   ###
   <div align="center">
     <h2 align="center">Hi 👋!</h2>
-    <h2>My name is Sandip Gyawali</h2>
+    <h2>I am Sandip Gyawali</h2>
   </div>
 
 
