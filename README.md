@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
   
   ###
   
@@ -73,6 +73,8 @@
     <img width="12" />      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>      
     <img width="12" />     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
+    <img width="12" />      
 </div>
 
 ###
