@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm from Planet known as Earth,<br/>Experimenting stuffs</p>
+<p align="left">Experimenting stuffs</p>
 
 ###
 <div>
@@ -32,11 +32,11 @@
   ###
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,dart)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,redux,tailwind,selenium,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,redux,tailwind,selenium,flutter,spring)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
