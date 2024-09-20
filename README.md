@@ -36,7 +36,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,redux,tailwind,selenium,flutter,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind,selenium,flutter,spring)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
@@ -47,12 +47,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,linux)](https://skillicons.dev)
 
 ###
-
-<h2>Currently Learning</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-
-
 
 <br clear="both">
 
