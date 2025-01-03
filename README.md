@@ -36,7 +36,7 @@
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind,selenium,flutter,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind,selenium,flutter)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
