@@ -32,11 +32,11 @@
   ###
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind,selenium,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind,selenium,cypress)](https://skillicons.dev)
 
 <h2>Databases</h2>
 
