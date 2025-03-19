@@ -44,7 +44,7 @@
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,linux,vercel,pnpm,bun,gitlab,github,bash,githubactions,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,linux,vercel,pnpm,bun,gitlab,github,bash,postman)](https://skillicons.dev)
 
 ###
 
