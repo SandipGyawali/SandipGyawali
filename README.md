@@ -13,12 +13,11 @@
   
 </div>
 
-###
 
-<p align="left">Experimenting stuffs</p>
+### <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" /> Connect with me
 
-###
 <div>
+   <a href="https://dev.to/sand1p_gyawa1i"><img src="https://img.shields.io/badge/dev.to-ebedf0?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username sandipgyawali" /></a>
     <a href="https://discordapp.com/users/discordapp.com/users/512619758966013962"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
     <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
     <a href="https://www.linkedin.com/in/sandip-gyawali-615681211/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
