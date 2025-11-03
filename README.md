@@ -1,17 +1,16 @@
   ###
   <div>
-    <h2>Hi 👋!</h2>
-    <h2>I am Sandip Gyawali</h2>
+    <h2>Hi 👋, Myself Sandip Gyawali !</h2>
   </div>
 
 
-<div>
+<!--  <div>
   
-  ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandipGyawali&show_icons=true&theme=dracula)
+ ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandipGyawali&show_icons=true&theme=dracula)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipGyawali&layout=compact&theme=dracula)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipGyawali&layout=compact&theme=dracula)
   
-</div>
+ </div>  -->
 
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" /> Connect with me
