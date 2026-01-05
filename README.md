@@ -1,19 +1,24 @@
-  ###
-  <div>
-    <h2>Hi 👋, Myself Sandip Gyawali !</h2>
-  </div>
-
-
-<!--  <div>
+## 👋 Hi there, I'm Sandip Gyawali!</h2>
   
- ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandipGyawali&show_icons=true&theme=dracula)
+![](https://komarev.com/ghpvc/?username=SandipGyawali&color=fb4362)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipGyawali&layout=compact&theme=dracula)
-  
- </div>  -->
+- 🔭 I’m currently working on a SaaS project (Freelance).
+- 🌱 I’m currently learning Stripe, OpenCV and Saltedge
+- 👯 I’m looking to collaborate on Flutter Projects
+- 🤔 I’m looking for help with backend infrastructure management
+- 💬 Ask me about Web and Appliction Development
+- 📫 How to reach me: sandipgyawali100@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Fast learner into capitalism, economics, and history.
+
+### What I Know
+
+#web #saas #react #firebase #android #ios #mongo #postgres #bun #nodejs #typescript #websocket #realtime #portfolio #nginx #caddy #react-native
+
+### Blog Posts
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="20" /> Connect with me
+### Connect with me:
 
 <div>
    <a href="https://dev.to/sand1p_gyawa1i"><img src="https://img.shields.io/badge/dev.to-ebedf0?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username sandipgyawali" /></a>
@@ -28,26 +33,10 @@
 <h3 align="left">🛠 Languages and tools</h3>
   
   ###
-<h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java)](https://skillicons.dev)
-
-<h2>Frameworks</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=express,react,next,tailwind,selenium,cypress)](https://skillicons.dev)
-
-<h2>Databases</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
-
-<h2>Tools</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,linux,vercel,pnpm,bun,gitlab,github,bash,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,express,react,next,tailwind,selenium,mongodb,postgres,redis,html,css,vscode,rabbitmq,docker,git,linux,vercel,pnpm,bun,nginx,github,bash,postman)](https://skillicons.dev)
 
 ###
-
-<br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
 
 ###
