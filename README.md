@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Sandip Gyawali!</h2>
   
-![](https://komarev.com/ghpvc/?username=SandipGyawali&color=fb4362)
-
 - 🔭 I’m currently working on a SaaS project (Freelance).
 - 🌱 I’m currently learning AWS, RabbitMq
 - 👯 I’m looking to collaborate on Web and Mobile Application Projects
@@ -40,3 +38,5 @@
 <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
 
 ###
+![](https://komarev.com/ghpvc/?username=SandipGyawali&color=fb4362)
+
