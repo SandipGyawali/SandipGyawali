@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=SandipGyawali&color=fb4362)
 
 - 🔭 I’m currently working on a SaaS project (Freelance).
-- 🌱 I’m currently learning Stripe, OpenCV and Saltedge
-- 👯 I’m looking to collaborate on Flutter Projects
-- 🤔 I’m looking for help with backend infrastructure management
+- 🌱 I’m currently learning AWS, RabbitMq
+- 👯 I’m looking to collaborate on Web and Mobile Application Projects
+- 🤔 I’m looking for help with infrastrucure monitoring tools
 - 💬 Ask me about Web and Appliction Development
 - 📫 How to reach me: sandipgyawali100@gmail.com
 - 😄 Pronouns: He/Him
