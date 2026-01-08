@@ -32,7 +32,7 @@
   
   ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,express,react,next,tailwind,selenium,mongodb,postgres,redis,html,css,vscode,rabbitmq,docker,git,linux,vercel,pnpm,bun,nginx,github,bash,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,express,react,next,tailwind,selenium,mongodb,postgres,redis,nestjs,html,css,vscode,rabbitmq,docker,git,linux,vercel,pnpm,bun,nginx,github,bash,postman)](https://skillicons.dev)
 
 ###
 <!-- <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
